@@ -12,6 +12,9 @@
 ## 聊天页
 ![图片](https://user-images.githubusercontent.com/61956206/160049672-1881230d-615a-4fa9-9e7c-4a935b7139a7.png)
 
+## 实现功能
+用户注册/登录，求职者/BOSS列表，实时聊天，消息列表，个人详情等
+
 ## 使用
 1. 下载依赖 - npm install
 2. 启动前台 - npm run start（需要先启动后台boss_node）
