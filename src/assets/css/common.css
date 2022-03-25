@@ -1,0 +1,118 @@
+.adm-tab-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  background: white;
+}
+
+/* tabbar icon */
+.adm-tab-bar-item-icon {
+  font-size: 24px;
+}
+
+/* tabbar字体 */
+.adm-tab-bar-item-title {
+  font-size: 13px;
+  margin-top: 3px;
+}
+
+/* tabbar color */
+.adm-tab-bar-item-active {
+  color: #5dd5c8;
+}
+
+/* personal */
+.adm-result-icon {
+  width: 108px;
+  height: 108px;
+}
+
+/* personal */
+.adm-list-header {
+  background: #f4f4f4;
+}
+
+/* personal */
+.css-personal .adm-list-item-content-main {
+  padding: 6px 0;
+  color: #999999;
+}
+
+/* List */
+.css-list-card .adm-card-header, .css-list-card .adm-card-header .adm-card-header-title, .css-list {
+  width: 100%;
+}
+
+.css-list-card {
+  border-radius: 16px;
+  border: 1px solid #5dd5c8;
+  margin-bottom: 8px;
+}
+
+.adm-card-header:not(:last-child) {
+  border-bottom: none;
+}
+
+.css-list {
+  position: relative;
+  font-weight: normal;
+}
+
+.css-list img {
+  display: block;
+  width: 48px;
+}
+
+.css-list span {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+}
+
+/* main */
+.css-main-navbar, .css-yingpin-navbar, .css-chat-navbar, .css-zhaopin-navbar, .css-reglog-navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+
+/* list */
+/* 去除下划线，antd-mobile自带样式 */
+.css-chat-list-father .adm-list-body, .css-chat-list-father .adm-list-body-inner, .css-chat-list {
+  --border-inner: none;
+  --border-top: none;
+  --border-bottom: none;
+}
+
+.css-chat-list img {
+  display: block;
+  width: 32px;
+}
+
+/* 我 */
+.css-chat-list-right .adm-list-item-content-main {
+  text-align: right;
+}
+
+.css-chat-list-right .adm-list-item-content-extra {
+  font-size: 19px;
+}
+
+/* 底部发送表单 */
+.css-chat-form {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+
+/* card */
+.adm-card-header {
+  padding: 12px 12px;
+}
