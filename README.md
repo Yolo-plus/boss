@@ -1,19 +1,27 @@
 # 直聘前台
 
-## 首页
-![图片](https://user-images.githubusercontent.com/61956206/160049600-eb82a0ed-0eff-4d3f-90fc-5440deb86160.png)
-
-## 消息列表
-![图片](https://user-images.githubusercontent.com/61956206/160049617-706c27ea-5edf-4c3c-9d28-b1c16993504d.png)
-
-## 个人中心
-![图片](https://user-images.githubusercontent.com/61956206/160049641-49dcc8d1-25c0-4470-887a-8ef393321ce9.png)
-
-## 聊天页
-![图片](https://user-images.githubusercontent.com/61956206/160049672-1881230d-615a-4fa9-9e7c-4a935b7139a7.png)
-
 ## 实现功能
 用户注册/登录，求职者/BOSS列表，实时聊天，消息列表，个人详情等
+
+## 首页
+
+<img src="https://user-images.githubusercontent.com/61956206/161998185-064698ad-1acc-4df6-ad19-daf707a9f529.png" alt="" width="200">
+
+## 消息列表
+
+<img src="https://user-images.githubusercontent.com/61956206/161998294-b287fa58-07d6-403b-a556-4a67ef96e856.png" alt="" width="200">
+
+## 聊天页
+
+<img src="https://user-images.githubusercontent.com/61956206/161998625-e00122e1-a6d3-4eeb-8e16-cb2eff7d8aa3.png" alt="" width="200">
+
+## 个人中心
+
+<img src="https://user-images.githubusercontent.com/61956206/161998716-9352a736-d90e-4687-88d7-43587c711f0b.png" alt="" width="200">
+
+## 注册和登录
+
+<img src="https://user-images.githubusercontent.com/61956206/161997952-9368ac54-4b8b-4583-890b-6af8deacead4.png" alt="" width="200">
 
 ## 使用
 1. 下载依赖 - npm install
