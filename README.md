@@ -29,7 +29,7 @@
 
 ## 四、使用
 1. 下载依赖 - npm install
-2. 启动前台 - npm run start（需要先启动后台boss_node）
+2. 启动前台 - npm run start（需要先启动后台https://github.com/Yolo-plus/boss_node）
 3. localhost:3000
 
 ## 五、注：
